@@ -1,4 +1,8 @@
-module.exports = {
+"plugin:prettier/recommended",
+    "plugin:json/recommended",
+    "plugin:@typescript-eslint/eslint-recommended","plugin:prettier/recommended",
+    "plugin:json/recommended",
+    "plugin:@typescript-eslint/eslint-recommended",module.exports = {
   root: true,
   env: {
     node: true,
