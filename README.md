@@ -10,7 +10,79 @@
     </a>
   </h4>
 </h3>
-
+<br/>
+  <h3 align="center">The Ledger Live JavaScript ecosystem</h3>
+  <h4 align="center">
+    <a href="https://jobs.lever.co/ledger/?department=Consumer%20-%20Engineering&team=Live">
+      We are hiring, join us! 👨‍💻👩‍💻
+    </a>
+  </h4>
+</h3>
+<br/>
+  <h3 align="center">The Ledger Live JavaScript ecosystem</h3>
+  <h4 align="center">
+    <a href="https://jobs.lever.co/ledger/?department=Consumer%20-%20Engineering&team=Live">
+      We are hiring, join us! 👨‍💻👩‍💻
+    </a>
+  </h4>
+</h3>
+<br/>
+  <h3 align="center">The Ledger Live JavaScript ecosystem</h3>
+  <h4 align="center">
+    <a href="https://jobs.lever.co/ledger/?department=Consumer%20-%20Engineering&team=Live">
+      We are hiring, join us! 👨‍💻👩‍💻
+    </a>
+  </h4>
+</h3>
+<br/>
+  <h3 align="center">The Ledger Live JavaScript ecosystem</h3>
+  <h4 align="center">
+    <a href="https://jobs.lever.co/ledger/?department=Consumer%20-%20Engineering&team=Live">
+      We are hiring, join us! 👨‍💻👩‍💻
+    </a>
+  </h4>
+</h3>
+<br/>
+  <h3 align="center">The Ledger Live JavaScript ecosystem</h3>
+  <h4 align="center">
+    <a href="https://jobs.lever.co/ledger/?department=Consumer%20-%20Engineering&team=Live">
+      We are hiring, join us! 👨‍💻👩‍💻
+    </a>
+  </h4>
+</h3>
+<br/>
+  <h3 align="center">The Ledger Live JavaScript ecosystem</h3>
+  <h4 align="center">
+    <a href="https://jobs.lever.co/ledger/?department=Consumer%20-%20Engineering&team=Live">
+      We are hiring, join us! 👨‍💻👩‍💻
+    </a>
+  </h4>
+</h3>
+<br/>
+  <h3 align="center">The Ledger Live JavaScript ecosystem</h3>
+  <h4 align="center">
+    <a href="https://jobs.lever.co/ledger/?department=Consumer%20-%20Engineering&team=Live">
+      We are hiring, join us! 👨‍💻👩‍💻
+    </a>
+  </h4>
+</h3>
+<br/>
+  <h3 align="center">The Ledger Live JavaScript ecosystem</h3>
+  <h4 align="center">
+    <a href="https://jobs.lever.co/ledger/?department=Consumer%20-%20Engineering&team=Live">
+      We are hiring, join us! 👨‍💻👩‍💻
+    </a>
+  </h4>
+</h3>
+<br/>
+  <h3 align="center">The Ledger Live JavaScript ecosystem</h3>
+  <h4 align="center">
+    <a href="https://jobs.lever.co/ledger/?department=Consumer%20-%20Engineering&team=Live">
+      We are hiring, join us! 👨‍💻👩‍💻
+    </a>
+  </h4>
+</h3>
+v
 [![gitpoap badge](https://public-api.gitpoap.io/v1/repo/LedgerHQ/ledger-live/badge)](https://www.gitpoap.io/gh/LedgerHQ/ledger-live)
 
 ## About
